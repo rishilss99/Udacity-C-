@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="C++Programs" Database="" Version="10.0.0">
+  <Project Name="Project1" Path="Project1/Project1.project" Active="No"/>
+  <Project Name="Basics" Path="Basics/Basics.project" Active="No"/>
+  <Project Name="Datastructures" Path="Datastructures/Datastructures.project" Active="No"/>
+  <Project Name="Practice_Miscellaneous" Path="Practice_Miscellaneous/Practice_Miscellaneous.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Project1" ConfigName="Debug"/>
+      <Project Name="Basics" ConfigName="Debug"/>
+      <Project Name="Datastructures" ConfigName="Debug"/>
+      <Project Name="Practice_Miscellaneous" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Project1" ConfigName="Release"/>
+      <Project Name="Basics" ConfigName="Release"/>
+      <Project Name="Datastructures" ConfigName="Release"/>
+      <Project Name="Practice_Miscellaneous" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
